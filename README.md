@@ -24,7 +24,7 @@ For the sake of this visualization, I've made a few changes and saved it in goog
 - The visualization
 
 For the visualization, there are a few notes. At first, I want to make something like below:
-![enter image description here](https://github.com/RFirmansyah/sonic-vg-sales/blob/2261afeac2b191caef10eee6ebb3ba3e875b6fc4/media/initially.png)
+![enter image description here](https://github.com/RFirmansyah/streamlit-sonic-videogames-sales/blob/b9ff6cad29e70d979eade69f7b6953ef80d75a45/media/initially.png)
 
 but I failed---hahaha---so I did a little workaround and the end result I created a container with 2 columns---I know this might look stupid, but it worked :D 
 
