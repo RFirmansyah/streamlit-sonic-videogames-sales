@@ -3,6 +3,7 @@ import subprocess
 
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'streamlit'])
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'streamlit_echarts'])
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'PIL'])
 
 import streamlit as st  
 
